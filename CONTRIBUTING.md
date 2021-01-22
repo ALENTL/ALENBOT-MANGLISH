@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are very welcome! Here are some guidelines on how the project is designed.
+Contributions are very welcome! Here are some guidelines on how the project is designed. Contribute or Donate to me via paypal https://paypal.me/ALENTL ......
 
 ### CodeStyle
 
