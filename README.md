@@ -21,7 +21,7 @@ To deploy me on heroku, use below button:
 
 There is also a [tutorial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
 
-## Starting the bot.
+## Starting the bot. Use the same command and dont make any changes....
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
